@@ -1,0 +1,3224 @@
+[
+{
+    "Goal_against": 227,
+    "Goal_for": 217,
+    "Losses": 33,
+    "OT_losses": 3,
+    "Team_Name": "Mighty Ducks of Anaheim",
+    "Wins": 34,
+    "Year": 1999
+},
+{
+    "Goal_against": 313,
+    "Goal_for": 170,
+    "Losses": 57,
+    "OT_losses": 4,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 14,
+    "Year": 1999
+},
+{
+    "Goal_against": 248,
+    "Goal_for": 210,
+    "Losses": 33,
+    "OT_losses": 6,
+    "Team_Name": "Boston Bruins",
+    "Wins": 24,
+    "Year": 1999
+},
+{
+    "Goal_against": 204,
+    "Goal_for": 213,
+    "Losses": 32,
+    "OT_losses": 4,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 35,
+    "Year": 1999
+},
+{
+    "Goal_against": 256,
+    "Goal_for": 211,
+    "Losses": 36,
+    "OT_losses": 5,
+    "Team_Name": "Calgary Flames",
+    "Wins": 31,
+    "Year": 1999
+},
+{
+    "Goal_against": 216,
+    "Goal_for": 217,
+    "Losses": 35,
+    "OT_losses": 0,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 37,
+    "Year": 1999
+},
+{
+    "Goal_against": 245,
+    "Goal_for": 242,
+    "Losses": 37,
+    "OT_losses": 2,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 33,
+    "Year": 1999
+},
+{
+    "Goal_against": 201,
+    "Goal_for": 233,
+    "Losses": 28,
+    "OT_losses": 1,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 42,
+    "Year": 1999
+},
+{
+    "Goal_against": 184,
+    "Goal_for": 211,
+    "Losses": 23,
+    "OT_losses": 6,
+    "Team_Name": "Dallas Stars",
+    "Wins": 43,
+    "Year": 1999
+},
+{
+    "Goal_against": 210,
+    "Goal_for": 278,
+    "Losses": 22,
+    "OT_losses": 2,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 48,
+    "Year": 1999
+},
+{
+    "Goal_against": 212,
+    "Goal_for": 226,
+    "Losses": 26,
+    "OT_losses": 8,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 32,
+    "Year": 1999
+},
+{
+    "Goal_against": 209,
+    "Goal_for": 244,
+    "Losses": 27,
+    "OT_losses": 6,
+    "Team_Name": "Florida Panthers",
+    "Wins": 43,
+    "Year": 1999
+},
+{
+    "Goal_against": 228,
+    "Goal_for": 245,
+    "Losses": 27,
+    "OT_losses": 4,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 39,
+    "Year": 1999
+},
+{
+    "Goal_against": 194,
+    "Goal_for": 196,
+    "Losses": 34,
+    "OT_losses": 4,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 35,
+    "Year": 1999
+},
+{
+    "Goal_against": 240,
+    "Goal_for": 199,
+    "Losses": 40,
+    "OT_losses": 7,
+    "Team_Name": "Nashville Predators",
+    "Wins": 28,
+    "Year": 1999
+},
+{
+    "Goal_against": 203,
+    "Goal_for": 251,
+    "Losses": 24,
+    "OT_losses": 5,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 45,
+    "Year": 1999
+},
+{
+    "Goal_against": 275,
+    "Goal_for": 194,
+    "Losses": 48,
+    "OT_losses": 1,
+    "Team_Name": "New York Islanders",
+    "Wins": 24,
+    "Year": 1999
+},
+{
+    "Goal_against": 246,
+    "Goal_for": 218,
+    "Losses": 38,
+    "OT_losses": 3,
+    "Team_Name": "New York Rangers",
+    "Wins": 29,
+    "Year": 1999
+},
+{
+    "Goal_against": 210,
+    "Goal_for": 244,
+    "Losses": 28,
+    "OT_losses": 2,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 41,
+    "Year": 1999
+},
+{
+    "Goal_against": 179,
+    "Goal_for": 237,
+    "Losses": 22,
+    "OT_losses": 3,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 45,
+    "Year": 1999
+},
+{
+    "Goal_against": 228,
+    "Goal_for": 232,
+    "Losses": 31,
+    "OT_losses": 4,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 39,
+    "Year": 1999
+},
+{
+    "Goal_against": 236,
+    "Goal_for": 241,
+    "Losses": 31,
+    "OT_losses": 6,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 37,
+    "Year": 1999
+},
+{
+    "Goal_against": 214,
+    "Goal_for": 225,
+    "Losses": 30,
+    "OT_losses": 7,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 35,
+    "Year": 1999
+},
+{
+    "Goal_against": 165,
+    "Goal_for": 248,
+    "Losses": 19,
+    "OT_losses": 1,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 51,
+    "Year": 1999
+},
+{
+    "Goal_against": 310,
+    "Goal_for": 204,
+    "Losses": 47,
+    "OT_losses": 7,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 19,
+    "Year": 1999
+},
+{
+    "Goal_against": 222,
+    "Goal_for": 246,
+    "Losses": 27,
+    "OT_losses": 3,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 45,
+    "Year": 1999
+},
+{
+    "Goal_against": 237,
+    "Goal_for": 227,
+    "Losses": 29,
+    "OT_losses": 8,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 30,
+    "Year": 1999
+},
+{
+    "Goal_against": 194,
+    "Goal_for": 227,
+    "Losses": 24,
+    "OT_losses": 2,
+    "Team_Name": "Washington Capitals",
+    "Wins": 44,
+    "Year": 1999
+},
+{
+    "Goal_against": 245,
+    "Goal_for": 188,
+    "Losses": 41,
+    "OT_losses": 5,
+    "Team_Name": "Mighty Ducks of Anaheim",
+    "Wins": 25,
+    "Year": 2000
+},
+{
+    "Goal_against": 289,
+    "Goal_for": 211,
+    "Losses": 45,
+    "OT_losses": 2,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 23,
+    "Year": 2000
+},
+{
+    "Goal_against": 249,
+    "Goal_for": 227,
+    "Losses": 30,
+    "OT_losses": 8,
+    "Team_Name": "Boston Bruins",
+    "Wins": 36,
+    "Year": 2000
+},
+{
+    "Goal_against": 184,
+    "Goal_for": 218,
+    "Losses": 30,
+    "OT_losses": 1,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 46,
+    "Year": 2000
+},
+{
+    "Goal_against": 236,
+    "Goal_for": 197,
+    "Losses": 36,
+    "OT_losses": 4,
+    "Team_Name": "Calgary Flames",
+    "Wins": 27,
+    "Year": 2000
+},
+{
+    "Goal_against": 225,
+    "Goal_for": 212,
+    "Losses": 32,
+    "OT_losses": 3,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 38,
+    "Year": 2000
+},
+{
+    "Goal_against": 233,
+    "Goal_for": 190,
+    "Losses": 39,
+    "OT_losses": 6,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 28,
+    "Year": 2000
+},
+{
+    "Goal_against": 246,
+    "Goal_for": 210,
+    "Losses": 40,
+    "OT_losses": 5,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 29,
+    "Year": 2000
+},
+{
+    "Goal_against": 192,
+    "Goal_for": 270,
+    "Losses": 16,
+    "OT_losses": 4,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 52,
+    "Year": 2000
+},
+{
+    "Goal_against": 187,
+    "Goal_for": 241,
+    "Losses": 24,
+    "OT_losses": 2,
+    "Team_Name": "Dallas Stars",
+    "Wins": 48,
+    "Year": 2000
+},
+{
+    "Goal_against": 202,
+    "Goal_for": 253,
+    "Losses": 20,
+    "OT_losses": 4,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 49,
+    "Year": 2000
+},
+{
+    "Goal_against": 222,
+    "Goal_for": 243,
+    "Losses": 28,
+    "OT_losses": 3,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 39,
+    "Year": 2000
+},
+{
+    "Goal_against": 246,
+    "Goal_for": 200,
+    "Losses": 38,
+    "OT_losses": 9,
+    "Team_Name": "Florida Panthers",
+    "Wins": 22,
+    "Year": 2000
+},
+{
+    "Goal_against": 228,
+    "Goal_for": 252,
+    "Losses": 28,
+    "OT_losses": 3,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 38,
+    "Year": 2000
+},
+{
+    "Goal_against": 210,
+    "Goal_for": 168,
+    "Losses": 39,
+    "OT_losses": 5,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 25,
+    "Year": 2000
+},
+{
+    "Goal_against": 232,
+    "Goal_for": 206,
+    "Losses": 40,
+    "OT_losses": 6,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 28,
+    "Year": 2000
+},
+{
+    "Goal_against": 200,
+    "Goal_for": 186,
+    "Losses": 36,
+    "OT_losses": 3,
+    "Team_Name": "Nashville Predators",
+    "Wins": 34,
+    "Year": 2000
+},
+{
+    "Goal_against": 195,
+    "Goal_for": 295,
+    "Losses": 19,
+    "OT_losses": 3,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 48,
+    "Year": 2000
+},
+{
+    "Goal_against": 268,
+    "Goal_for": 185,
+    "Losses": 51,
+    "OT_losses": 3,
+    "Team_Name": "New York Islanders",
+    "Wins": 21,
+    "Year": 2000
+},
+{
+    "Goal_against": 290,
+    "Goal_for": 250,
+    "Losses": 43,
+    "OT_losses": 1,
+    "Team_Name": "New York Rangers",
+    "Wins": 33,
+    "Year": 2000
+},
+{
+    "Goal_against": 205,
+    "Goal_for": 274,
+    "Losses": 21,
+    "OT_losses": 4,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 48,
+    "Year": 2000
+},
+{
+    "Goal_against": 207,
+    "Goal_for": 240,
+    "Losses": 25,
+    "OT_losses": 3,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 43,
+    "Year": 2000
+},
+{
+    "Goal_against": 212,
+    "Goal_for": 214,
+    "Losses": 27,
+    "OT_losses": 3,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 35,
+    "Year": 2000
+},
+{
+    "Goal_against": 256,
+    "Goal_for": 281,
+    "Losses": 28,
+    "OT_losses": 3,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 42,
+    "Year": 2000
+},
+{
+    "Goal_against": 192,
+    "Goal_for": 217,
+    "Losses": 27,
+    "OT_losses": 3,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 40,
+    "Year": 2000
+},
+{
+    "Goal_against": 195,
+    "Goal_for": 249,
+    "Losses": 22,
+    "OT_losses": 5,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 43,
+    "Year": 2000
+},
+{
+    "Goal_against": 280,
+    "Goal_for": 201,
+    "Losses": 47,
+    "OT_losses": 5,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 24,
+    "Year": 2000
+},
+{
+    "Goal_against": 207,
+    "Goal_for": 232,
+    "Losses": 29,
+    "OT_losses": 5,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 37,
+    "Year": 2000
+},
+{
+    "Goal_against": 238,
+    "Goal_for": 239,
+    "Losses": 28,
+    "OT_losses": 7,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 36,
+    "Year": 2000
+},
+{
+    "Goal_against": 211,
+    "Goal_for": 233,
+    "Losses": 27,
+    "OT_losses": 4,
+    "Team_Name": "Washington Capitals",
+    "Wins": 41,
+    "Year": 2000
+},
+{
+    "Goal_against": 198,
+    "Goal_for": 175,
+    "Losses": 42,
+    "OT_losses": 3,
+    "Team_Name": "Mighty Ducks of Anaheim",
+    "Wins": 29,
+    "Year": 2001
+},
+{
+    "Goal_against": 288,
+    "Goal_for": 187,
+    "Losses": 47,
+    "OT_losses": 5,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 19,
+    "Year": 2001
+},
+{
+    "Goal_against": 201,
+    "Goal_for": 236,
+    "Losses": 24,
+    "OT_losses": 9,
+    "Team_Name": "Boston Bruins",
+    "Wins": 43,
+    "Year": 2001
+},
+{
+    "Goal_against": 200,
+    "Goal_for": 213,
+    "Losses": 35,
+    "OT_losses": 1,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 35,
+    "Year": 2001
+},
+{
+    "Goal_against": 220,
+    "Goal_for": 201,
+    "Losses": 35,
+    "OT_losses": 3,
+    "Team_Name": "Calgary Flames",
+    "Wins": 32,
+    "Year": 2001
+},
+{
+    "Goal_against": 217,
+    "Goal_for": 217,
+    "Losses": 26,
+    "OT_losses": 5,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 35,
+    "Year": 2001
+},
+{
+    "Goal_against": 255,
+    "Goal_for": 164,
+    "Losses": 47,
+    "OT_losses": 5,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 22,
+    "Year": 2001
+},
+{
+    "Goal_against": 207,
+    "Goal_for": 216,
+    "Losses": 27,
+    "OT_losses": 1,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 41,
+    "Year": 2001
+},
+{
+    "Goal_against": 169,
+    "Goal_for": 212,
+    "Losses": 28,
+    "OT_losses": 1,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 45,
+    "Year": 2001
+},
+{
+    "Goal_against": 213,
+    "Goal_for": 215,
+    "Losses": 28,
+    "OT_losses": 5,
+    "Team_Name": "Dallas Stars",
+    "Wins": 36,
+    "Year": 2001
+},
+{
+    "Goal_against": 187,
+    "Goal_for": 251,
+    "Losses": 17,
+    "OT_losses": 4,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 51,
+    "Year": 2001
+},
+{
+    "Goal_against": 182,
+    "Goal_for": 205,
+    "Losses": 28,
+    "OT_losses": 4,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 38,
+    "Year": 2001
+},
+{
+    "Goal_against": 250,
+    "Goal_for": 180,
+    "Losses": 44,
+    "OT_losses": 6,
+    "Team_Name": "Florida Panthers",
+    "Wins": 22,
+    "Year": 2001
+},
+{
+    "Goal_against": 190,
+    "Goal_for": 214,
+    "Losses": 27,
+    "OT_losses": 4,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 40,
+    "Year": 2001
+},
+{
+    "Goal_against": 238,
+    "Goal_for": 195,
+    "Losses": 35,
+    "OT_losses": 9,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 26,
+    "Year": 2001
+},
+{
+    "Goal_against": 209,
+    "Goal_for": 207,
+    "Losses": 31,
+    "OT_losses": 3,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 36,
+    "Year": 2001
+},
+{
+    "Goal_against": 230,
+    "Goal_for": 196,
+    "Losses": 41,
+    "OT_losses": 0,
+    "Team_Name": "Nashville Predators",
+    "Wins": 28,
+    "Year": 2001
+},
+{
+    "Goal_against": 187,
+    "Goal_for": 205,
+    "Losses": 28,
+    "OT_losses": 4,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 41,
+    "Year": 2001
+},
+{
+    "Goal_against": 220,
+    "Goal_for": 239,
+    "Losses": 28,
+    "OT_losses": 4,
+    "Team_Name": "New York Islanders",
+    "Wins": 42,
+    "Year": 2001
+},
+{
+    "Goal_against": 258,
+    "Goal_for": 227,
+    "Losses": 38,
+    "OT_losses": 4,
+    "Team_Name": "New York Rangers",
+    "Wins": 36,
+    "Year": 2001
+},
+{
+    "Goal_against": 208,
+    "Goal_for": 243,
+    "Losses": 27,
+    "OT_losses": 7,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 39,
+    "Year": 2001
+},
+{
+    "Goal_against": 192,
+    "Goal_for": 234,
+    "Losses": 27,
+    "OT_losses": 3,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 42,
+    "Year": 2001
+},
+{
+    "Goal_against": 210,
+    "Goal_for": 228,
+    "Losses": 27,
+    "OT_losses": 6,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 40,
+    "Year": 2001
+},
+{
+    "Goal_against": 249,
+    "Goal_for": 198,
+    "Losses": 41,
+    "OT_losses": 5,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 28,
+    "Year": 2001
+},
+{
+    "Goal_against": 199,
+    "Goal_for": 248,
+    "Losses": 27,
+    "OT_losses": 3,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 44,
+    "Year": 2001
+},
+{
+    "Goal_against": 188,
+    "Goal_for": 227,
+    "Losses": 27,
+    "OT_losses": 4,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 43,
+    "Year": 2001
+},
+{
+    "Goal_against": 219,
+    "Goal_for": 178,
+    "Losses": 40,
+    "OT_losses": 4,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 27,
+    "Year": 2001
+},
+{
+    "Goal_against": 207,
+    "Goal_for": 249,
+    "Losses": 25,
+    "OT_losses": 4,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 43,
+    "Year": 2001
+},
+{
+    "Goal_against": 211,
+    "Goal_for": 254,
+    "Losses": 30,
+    "OT_losses": 3,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 42,
+    "Year": 2001
+},
+{
+    "Goal_against": 240,
+    "Goal_for": 228,
+    "Losses": 33,
+    "OT_losses": 2,
+    "Team_Name": "Washington Capitals",
+    "Wins": 36,
+    "Year": 2001
+},
+{
+    "Goal_against": 193,
+    "Goal_for": 203,
+    "Losses": 27,
+    "OT_losses": 6,
+    "Team_Name": "Mighty Ducks of Anaheim",
+    "Wins": 40,
+    "Year": 2002
+},
+{
+    "Goal_against": 284,
+    "Goal_for": 226,
+    "Losses": 39,
+    "OT_losses": 5,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 31,
+    "Year": 2002
+},
+{
+    "Goal_against": 237,
+    "Goal_for": 245,
+    "Losses": 31,
+    "OT_losses": 4,
+    "Team_Name": "Boston Bruins",
+    "Wins": 36,
+    "Year": 2002
+},
+{
+    "Goal_against": 219,
+    "Goal_for": 190,
+    "Losses": 37,
+    "OT_losses": 8,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 27,
+    "Year": 2002
+},
+{
+    "Goal_against": 228,
+    "Goal_for": 186,
+    "Losses": 36,
+    "OT_losses": 4,
+    "Team_Name": "Calgary Flames",
+    "Wins": 29,
+    "Year": 2002
+},
+{
+    "Goal_against": 240,
+    "Goal_for": 171,
+    "Losses": 43,
+    "OT_losses": 6,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 22,
+    "Year": 2002
+},
+{
+    "Goal_against": 263,
+    "Goal_for": 213,
+    "Losses": 42,
+    "OT_losses": 3,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 29,
+    "Year": 2002
+},
+{
+    "Goal_against": 226,
+    "Goal_for": 207,
+    "Losses": 33,
+    "OT_losses": 6,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 30,
+    "Year": 2002
+},
+{
+    "Goal_against": 194,
+    "Goal_for": 251,
+    "Losses": 19,
+    "OT_losses": 8,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 42,
+    "Year": 2002
+},
+{
+    "Goal_against": 169,
+    "Goal_for": 245,
+    "Losses": 17,
+    "OT_losses": 4,
+    "Team_Name": "Dallas Stars",
+    "Wins": 46,
+    "Year": 2002
+},
+{
+    "Goal_against": 203,
+    "Goal_for": 269,
+    "Losses": 20,
+    "OT_losses": 4,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 48,
+    "Year": 2002
+},
+{
+    "Goal_against": 230,
+    "Goal_for": 231,
+    "Losses": 26,
+    "OT_losses": 9,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 36,
+    "Year": 2002
+},
+{
+    "Goal_against": 237,
+    "Goal_for": 176,
+    "Losses": 36,
+    "OT_losses": 9,
+    "Team_Name": "Florida Panthers",
+    "Wins": 24,
+    "Year": 2002
+},
+{
+    "Goal_against": 221,
+    "Goal_for": 203,
+    "Losses": 37,
+    "OT_losses": 6,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 33,
+    "Year": 2002
+},
+{
+    "Goal_against": 178,
+    "Goal_for": 198,
+    "Losses": 29,
+    "OT_losses": 1,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 42,
+    "Year": 2002
+},
+{
+    "Goal_against": 234,
+    "Goal_for": 206,
+    "Losses": 35,
+    "OT_losses": 9,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 30,
+    "Year": 2002
+},
+{
+    "Goal_against": 206,
+    "Goal_for": 183,
+    "Losses": 35,
+    "OT_losses": 7,
+    "Team_Name": "Nashville Predators",
+    "Wins": 27,
+    "Year": 2002
+},
+{
+    "Goal_against": 166,
+    "Goal_for": 216,
+    "Losses": 20,
+    "OT_losses": 6,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 46,
+    "Year": 2002
+},
+{
+    "Goal_against": 231,
+    "Goal_for": 224,
+    "Losses": 34,
+    "OT_losses": 2,
+    "Team_Name": "New York Islanders",
+    "Wins": 35,
+    "Year": 2002
+},
+{
+    "Goal_against": 231,
+    "Goal_for": 210,
+    "Losses": 36,
+    "OT_losses": 4,
+    "Team_Name": "New York Rangers",
+    "Wins": 32,
+    "Year": 2002
+},
+{
+    "Goal_against": 182,
+    "Goal_for": 263,
+    "Losses": 21,
+    "OT_losses": 1,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 52,
+    "Year": 2002
+},
+{
+    "Goal_against": 166,
+    "Goal_for": 211,
+    "Losses": 20,
+    "OT_losses": 4,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 45,
+    "Year": 2002
+},
+{
+    "Goal_against": 230,
+    "Goal_for": 204,
+    "Losses": 35,
+    "OT_losses": 5,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 31,
+    "Year": 2002
+},
+{
+    "Goal_against": 255,
+    "Goal_for": 189,
+    "Losses": 44,
+    "OT_losses": 5,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 27,
+    "Year": 2002
+},
+{
+    "Goal_against": 239,
+    "Goal_for": 214,
+    "Losses": 37,
+    "OT_losses": 8,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 28,
+    "Year": 2002
+},
+{
+    "Goal_against": 222,
+    "Goal_for": 253,
+    "Losses": 24,
+    "OT_losses": 6,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 41,
+    "Year": 2002
+},
+{
+    "Goal_against": 210,
+    "Goal_for": 219,
+    "Losses": 25,
+    "OT_losses": 5,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 36,
+    "Year": 2002
+},
+{
+    "Goal_against": 208,
+    "Goal_for": 236,
+    "Losses": 28,
+    "OT_losses": 3,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 44,
+    "Year": 2002
+},
+{
+    "Goal_against": 208,
+    "Goal_for": 264,
+    "Losses": 23,
+    "OT_losses": 1,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 45,
+    "Year": 2002
+},
+{
+    "Goal_against": 220,
+    "Goal_for": 224,
+    "Losses": 29,
+    "OT_losses": 6,
+    "Team_Name": "Washington Capitals",
+    "Wins": 39,
+    "Year": 2002
+},
+{
+    "Goal_against": 213,
+    "Goal_for": 184,
+    "Losses": 35,
+    "OT_losses": 8,
+    "Team_Name": "Mighty Ducks of Anaheim",
+    "Wins": 29,
+    "Year": 2003
+},
+{
+    "Goal_against": 243,
+    "Goal_for": 214,
+    "Losses": 37,
+    "OT_losses": 4,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 33,
+    "Year": 2003
+},
+{
+    "Goal_against": 188,
+    "Goal_for": 209,
+    "Losses": 19,
+    "OT_losses": 7,
+    "Team_Name": "Boston Bruins",
+    "Wins": 41,
+    "Year": 2003
+},
+{
+    "Goal_against": 221,
+    "Goal_for": 220,
+    "Losses": 34,
+    "OT_losses": 4,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 37,
+    "Year": 2003
+},
+{
+    "Goal_against": 176,
+    "Goal_for": 200,
+    "Losses": 30,
+    "OT_losses": 3,
+    "Team_Name": "Calgary Flames",
+    "Wins": 42,
+    "Year": 2003
+},
+{
+    "Goal_against": 209,
+    "Goal_for": 172,
+    "Losses": 34,
+    "OT_losses": 6,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 28,
+    "Year": 2003
+},
+{
+    "Goal_against": 238,
+    "Goal_for": 177,
+    "Losses": 45,
+    "OT_losses": 4,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 25,
+    "Year": 2003
+},
+{
+    "Goal_against": 259,
+    "Goal_for": 188,
+    "Losses": 43,
+    "OT_losses": 8,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 20,
+    "Year": 2003
+},
+{
+    "Goal_against": 198,
+    "Goal_for": 236,
+    "Losses": 22,
+    "OT_losses": 7,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 40,
+    "Year": 2003
+},
+{
+    "Goal_against": 175,
+    "Goal_for": 194,
+    "Losses": 26,
+    "OT_losses": 2,
+    "Team_Name": "Dallas Stars",
+    "Wins": 41,
+    "Year": 2003
+},
+{
+    "Goal_against": 189,
+    "Goal_for": 255,
+    "Losses": 21,
+    "OT_losses": 2,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 48,
+    "Year": 2003
+},
+{
+    "Goal_against": 208,
+    "Goal_for": 221,
+    "Losses": 29,
+    "OT_losses": 5,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 36,
+    "Year": 2003
+},
+{
+    "Goal_against": 221,
+    "Goal_for": 188,
+    "Losses": 35,
+    "OT_losses": 4,
+    "Team_Name": "Florida Panthers",
+    "Wins": 28,
+    "Year": 2003
+},
+{
+    "Goal_against": 217,
+    "Goal_for": 205,
+    "Losses": 29,
+    "OT_losses": 9,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 28,
+    "Year": 2003
+},
+{
+    "Goal_against": 183,
+    "Goal_for": 188,
+    "Losses": 29,
+    "OT_losses": 3,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 30,
+    "Year": 2003
+},
+{
+    "Goal_against": 192,
+    "Goal_for": 208,
+    "Losses": 30,
+    "OT_losses": 4,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 41,
+    "Year": 2003
+},
+{
+    "Goal_against": 217,
+    "Goal_for": 216,
+    "Losses": 29,
+    "OT_losses": 4,
+    "Team_Name": "Nashville Predators",
+    "Wins": 38,
+    "Year": 2003
+},
+{
+    "Goal_against": 164,
+    "Goal_for": 213,
+    "Losses": 25,
+    "OT_losses": 2,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 43,
+    "Year": 2003
+},
+{
+    "Goal_against": 210,
+    "Goal_for": 237,
+    "Losses": 29,
+    "OT_losses": 4,
+    "Team_Name": "New York Islanders",
+    "Wins": 38,
+    "Year": 2003
+},
+{
+    "Goal_against": 250,
+    "Goal_for": 206,
+    "Losses": 40,
+    "OT_losses": 8,
+    "Team_Name": "New York Rangers",
+    "Wins": 27,
+    "Year": 2003
+},
+{
+    "Goal_against": 189,
+    "Goal_for": 262,
+    "Losses": 23,
+    "OT_losses": 6,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 43,
+    "Year": 2003
+},
+{
+    "Goal_against": 186,
+    "Goal_for": 229,
+    "Losses": 21,
+    "OT_losses": 6,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 40,
+    "Year": 2003
+},
+{
+    "Goal_against": 245,
+    "Goal_for": 188,
+    "Losses": 36,
+    "OT_losses": 6,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 22,
+    "Year": 2003
+},
+{
+    "Goal_against": 303,
+    "Goal_for": 190,
+    "Losses": 47,
+    "OT_losses": 4,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 23,
+    "Year": 2003
+},
+{
+    "Goal_against": 183,
+    "Goal_for": 219,
+    "Losses": 21,
+    "OT_losses": 6,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 43,
+    "Year": 2003
+},
+{
+    "Goal_against": 198,
+    "Goal_for": 191,
+    "Losses": 30,
+    "OT_losses": 2,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 39,
+    "Year": 2003
+},
+{
+    "Goal_against": 192,
+    "Goal_for": 245,
+    "Losses": 22,
+    "OT_losses": 6,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 46,
+    "Year": 2003
+},
+{
+    "Goal_against": 204,
+    "Goal_for": 242,
+    "Losses": 24,
+    "OT_losses": 3,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 45,
+    "Year": 2003
+},
+{
+    "Goal_against": 194,
+    "Goal_for": 235,
+    "Losses": 24,
+    "OT_losses": 5,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 43,
+    "Year": 2003
+},
+{
+    "Goal_against": 253,
+    "Goal_for": 186,
+    "Losses": 46,
+    "OT_losses": 3,
+    "Team_Name": "Washington Capitals",
+    "Wins": 23,
+    "Year": 2003
+},
+{
+    "Goal_against": 229,
+    "Goal_for": 254,
+    "Losses": 27,
+    "OT_losses": 12,
+    "Team_Name": "Mighty Ducks of Anaheim",
+    "Wins": 43,
+    "Year": 2005
+},
+{
+    "Goal_against": 275,
+    "Goal_for": 281,
+    "Losses": 33,
+    "OT_losses": 8,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 41,
+    "Year": 2005
+},
+{
+    "Goal_against": 266,
+    "Goal_for": 230,
+    "Losses": 37,
+    "OT_losses": 16,
+    "Team_Name": "Boston Bruins",
+    "Wins": 29,
+    "Year": 2005
+},
+{
+    "Goal_against": 239,
+    "Goal_for": 281,
+    "Losses": 24,
+    "OT_losses": 6,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 52,
+    "Year": 2005
+},
+{
+    "Goal_against": 200,
+    "Goal_for": 218,
+    "Losses": 25,
+    "OT_losses": 11,
+    "Team_Name": "Calgary Flames",
+    "Wins": 46,
+    "Year": 2005
+},
+{
+    "Goal_against": 260,
+    "Goal_for": 294,
+    "Losses": 22,
+    "OT_losses": 8,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 52,
+    "Year": 2005
+},
+{
+    "Goal_against": 279,
+    "Goal_for": 223,
+    "Losses": 43,
+    "OT_losses": 4,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 35,
+    "Year": 2005
+},
+{
+    "Goal_against": 285,
+    "Goal_for": 211,
+    "Losses": 43,
+    "OT_losses": 13,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 26,
+    "Year": 2005
+},
+{
+    "Goal_against": 257,
+    "Goal_for": 283,
+    "Losses": 30,
+    "OT_losses": 9,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 43,
+    "Year": 2005
+},
+{
+    "Goal_against": 218,
+    "Goal_for": 265,
+    "Losses": 23,
+    "OT_losses": 6,
+    "Team_Name": "Dallas Stars",
+    "Wins": 53,
+    "Year": 2005
+},
+{
+    "Goal_against": 209,
+    "Goal_for": 305,
+    "Losses": 16,
+    "OT_losses": 8,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 58,
+    "Year": 2005
+},
+{
+    "Goal_against": 251,
+    "Goal_for": 256,
+    "Losses": 28,
+    "OT_losses": 13,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 41,
+    "Year": 2005
+},
+{
+    "Goal_against": 257,
+    "Goal_for": 240,
+    "Losses": 34,
+    "OT_losses": 11,
+    "Team_Name": "Florida Panthers",
+    "Wins": 37,
+    "Year": 2005
+},
+{
+    "Goal_against": 270,
+    "Goal_for": 249,
+    "Losses": 35,
+    "OT_losses": 5,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 42,
+    "Year": 2005
+},
+{
+    "Goal_against": 215,
+    "Goal_for": 231,
+    "Losses": 36,
+    "OT_losses": 8,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 38,
+    "Year": 2005
+},
+{
+    "Goal_against": 247,
+    "Goal_for": 243,
+    "Losses": 31,
+    "OT_losses": 9,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 42,
+    "Year": 2005
+},
+{
+    "Goal_against": 227,
+    "Goal_for": 259,
+    "Losses": 25,
+    "OT_losses": 8,
+    "Team_Name": "Nashville Predators",
+    "Wins": 49,
+    "Year": 2005
+},
+{
+    "Goal_against": 229,
+    "Goal_for": 242,
+    "Losses": 27,
+    "OT_losses": 9,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 46,
+    "Year": 2005
+},
+{
+    "Goal_against": 278,
+    "Goal_for": 230,
+    "Losses": 40,
+    "OT_losses": 6,
+    "Team_Name": "New York Islanders",
+    "Wins": 36,
+    "Year": 2005
+},
+{
+    "Goal_against": 215,
+    "Goal_for": 257,
+    "Losses": 26,
+    "OT_losses": 12,
+    "Team_Name": "New York Rangers",
+    "Wins": 44,
+    "Year": 2005
+},
+{
+    "Goal_against": 211,
+    "Goal_for": 314,
+    "Losses": 21,
+    "OT_losses": 9,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 52,
+    "Year": 2005
+},
+{
+    "Goal_against": 259,
+    "Goal_for": 267,
+    "Losses": 26,
+    "OT_losses": 11,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 45,
+    "Year": 2005
+},
+{
+    "Goal_against": 271,
+    "Goal_for": 246,
+    "Losses": 39,
+    "OT_losses": 5,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 38,
+    "Year": 2005
+},
+{
+    "Goal_against": 316,
+    "Goal_for": 244,
+    "Losses": 46,
+    "OT_losses": 14,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 22,
+    "Year": 2005
+},
+{
+    "Goal_against": 242,
+    "Goal_for": 266,
+    "Losses": 27,
+    "OT_losses": 11,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 44,
+    "Year": 2005
+},
+{
+    "Goal_against": 292,
+    "Goal_for": 197,
+    "Losses": 46,
+    "OT_losses": 15,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 21,
+    "Year": 2005
+},
+{
+    "Goal_against": 260,
+    "Goal_for": 252,
+    "Losses": 33,
+    "OT_losses": 6,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 43,
+    "Year": 2005
+},
+{
+    "Goal_against": 270,
+    "Goal_for": 257,
+    "Losses": 33,
+    "OT_losses": 8,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 41,
+    "Year": 2005
+},
+{
+    "Goal_against": 255,
+    "Goal_for": 256,
+    "Losses": 32,
+    "OT_losses": 8,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 42,
+    "Year": 2005
+},
+{
+    "Goal_against": 306,
+    "Goal_for": 237,
+    "Losses": 41,
+    "OT_losses": 12,
+    "Team_Name": "Washington Capitals",
+    "Wins": 29,
+    "Year": 2005
+},
+{
+    "Goal_against": 208,
+    "Goal_for": 258,
+    "Losses": 20,
+    "OT_losses": 14,
+    "Team_Name": "Anaheim Ducks",
+    "Wins": 48,
+    "Year": 2006
+},
+{
+    "Goal_against": 245,
+    "Goal_for": 246,
+    "Losses": 28,
+    "OT_losses": 11,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 43,
+    "Year": 2006
+},
+{
+    "Goal_against": 289,
+    "Goal_for": 219,
+    "Losses": 41,
+    "OT_losses": 6,
+    "Team_Name": "Boston Bruins",
+    "Wins": 35,
+    "Year": 2006
+},
+{
+    "Goal_against": 242,
+    "Goal_for": 308,
+    "Losses": 22,
+    "OT_losses": 7,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 53,
+    "Year": 2006
+},
+{
+    "Goal_against": 226,
+    "Goal_for": 258,
+    "Losses": 29,
+    "OT_losses": 10,
+    "Team_Name": "Calgary Flames",
+    "Wins": 43,
+    "Year": 2006
+},
+{
+    "Goal_against": 253,
+    "Goal_for": 241,
+    "Losses": 34,
+    "OT_losses": 8,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 40,
+    "Year": 2006
+},
+{
+    "Goal_against": 249,
+    "Goal_for": 201,
+    "Losses": 42,
+    "OT_losses": 7,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 33,
+    "Year": 2006
+},
+{
+    "Goal_against": 258,
+    "Goal_for": 201,
+    "Losses": 42,
+    "OT_losses": 9,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 31,
+    "Year": 2006
+},
+{
+    "Goal_against": 251,
+    "Goal_for": 272,
+    "Losses": 31,
+    "OT_losses": 7,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 44,
+    "Year": 2006
+},
+{
+    "Goal_against": 197,
+    "Goal_for": 226,
+    "Losses": 25,
+    "OT_losses": 7,
+    "Team_Name": "Dallas Stars",
+    "Wins": 50,
+    "Year": 2006
+},
+{
+    "Goal_against": 199,
+    "Goal_for": 254,
+    "Losses": 19,
+    "OT_losses": 13,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 50,
+    "Year": 2006
+},
+{
+    "Goal_against": 248,
+    "Goal_for": 195,
+    "Losses": 43,
+    "OT_losses": 7,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 32,
+    "Year": 2006
+},
+{
+    "Goal_against": 257,
+    "Goal_for": 247,
+    "Losses": 31,
+    "OT_losses": 16,
+    "Team_Name": "Florida Panthers",
+    "Wins": 35,
+    "Year": 2006
+},
+{
+    "Goal_against": 283,
+    "Goal_for": 227,
+    "Losses": 41,
+    "OT_losses": 14,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 27,
+    "Year": 2006
+},
+{
+    "Goal_against": 191,
+    "Goal_for": 235,
+    "Losses": 26,
+    "OT_losses": 8,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 48,
+    "Year": 2006
+},
+{
+    "Goal_against": 256,
+    "Goal_for": 245,
+    "Losses": 34,
+    "OT_losses": 6,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 42,
+    "Year": 2006
+},
+{
+    "Goal_against": 212,
+    "Goal_for": 272,
+    "Losses": 23,
+    "OT_losses": 8,
+    "Team_Name": "Nashville Predators",
+    "Wins": 51,
+    "Year": 2006
+},
+{
+    "Goal_against": 201,
+    "Goal_for": 216,
+    "Losses": 24,
+    "OT_losses": 9,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 49,
+    "Year": 2006
+},
+{
+    "Goal_against": 240,
+    "Goal_for": 248,
+    "Losses": 30,
+    "OT_losses": 12,
+    "Team_Name": "New York Islanders",
+    "Wins": 40,
+    "Year": 2006
+},
+{
+    "Goal_against": 216,
+    "Goal_for": 242,
+    "Losses": 30,
+    "OT_losses": 10,
+    "Team_Name": "New York Rangers",
+    "Wins": 42,
+    "Year": 2006
+},
+{
+    "Goal_against": 222,
+    "Goal_for": 288,
+    "Losses": 25,
+    "OT_losses": 9,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 48,
+    "Year": 2006
+},
+{
+    "Goal_against": 303,
+    "Goal_for": 214,
+    "Losses": 48,
+    "OT_losses": 12,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 22,
+    "Year": 2006
+},
+{
+    "Goal_against": 284,
+    "Goal_for": 216,
+    "Losses": 46,
+    "OT_losses": 5,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 31,
+    "Year": 2006
+},
+{
+    "Goal_against": 246,
+    "Goal_for": 277,
+    "Losses": 24,
+    "OT_losses": 11,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 47,
+    "Year": 2006
+},
+{
+    "Goal_against": 199,
+    "Goal_for": 258,
+    "Losses": 26,
+    "OT_losses": 5,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 51,
+    "Year": 2006
+},
+{
+    "Goal_against": 254,
+    "Goal_for": 214,
+    "Losses": 35,
+    "OT_losses": 13,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 34,
+    "Year": 2006
+},
+{
+    "Goal_against": 261,
+    "Goal_for": 253,
+    "Losses": 33,
+    "OT_losses": 5,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 44,
+    "Year": 2006
+},
+{
+    "Goal_against": 269,
+    "Goal_for": 258,
+    "Losses": 31,
+    "OT_losses": 11,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 40,
+    "Year": 2006
+},
+{
+    "Goal_against": 201,
+    "Goal_for": 222,
+    "Losses": 26,
+    "OT_losses": 7,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 49,
+    "Year": 2006
+},
+{
+    "Goal_against": 286,
+    "Goal_for": 235,
+    "Losses": 40,
+    "OT_losses": 14,
+    "Team_Name": "Washington Capitals",
+    "Wins": 28,
+    "Year": 2006
+},
+{
+    "Goal_against": 191,
+    "Goal_for": 205,
+    "Losses": 27,
+    "OT_losses": 8,
+    "Team_Name": "Anaheim Ducks",
+    "Wins": 47,
+    "Year": 2007
+},
+{
+    "Goal_against": 272,
+    "Goal_for": 216,
+    "Losses": 40,
+    "OT_losses": 8,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 34,
+    "Year": 2007
+},
+{
+    "Goal_against": 222,
+    "Goal_for": 212,
+    "Losses": 29,
+    "OT_losses": 12,
+    "Team_Name": "Boston Bruins",
+    "Wins": 41,
+    "Year": 2007
+},
+{
+    "Goal_against": 242,
+    "Goal_for": 255,
+    "Losses": 31,
+    "OT_losses": 12,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 39,
+    "Year": 2007
+},
+{
+    "Goal_against": 227,
+    "Goal_for": 229,
+    "Losses": 30,
+    "OT_losses": 10,
+    "Team_Name": "Calgary Flames",
+    "Wins": 42,
+    "Year": 2007
+},
+{
+    "Goal_against": 249,
+    "Goal_for": 252,
+    "Losses": 33,
+    "OT_losses": 6,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 43,
+    "Year": 2007
+},
+{
+    "Goal_against": 218,
+    "Goal_for": 193,
+    "Losses": 36,
+    "OT_losses": 12,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 34,
+    "Year": 2007
+},
+{
+    "Goal_against": 235,
+    "Goal_for": 239,
+    "Losses": 34,
+    "OT_losses": 8,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 40,
+    "Year": 2007
+},
+{
+    "Goal_against": 219,
+    "Goal_for": 231,
+    "Losses": 31,
+    "OT_losses": 7,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 44,
+    "Year": 2007
+},
+{
+    "Goal_against": 207,
+    "Goal_for": 242,
+    "Losses": 30,
+    "OT_losses": 7,
+    "Team_Name": "Dallas Stars",
+    "Wins": 45,
+    "Year": 2007
+},
+{
+    "Goal_against": 184,
+    "Goal_for": 257,
+    "Losses": 21,
+    "OT_losses": 7,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 54,
+    "Year": 2007
+},
+{
+    "Goal_against": 251,
+    "Goal_for": 235,
+    "Losses": 35,
+    "OT_losses": 6,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 41,
+    "Year": 2007
+},
+{
+    "Goal_against": 226,
+    "Goal_for": 216,
+    "Losses": 35,
+    "OT_losses": 9,
+    "Team_Name": "Florida Panthers",
+    "Wins": 38,
+    "Year": 2007
+},
+{
+    "Goal_against": 266,
+    "Goal_for": 231,
+    "Losses": 43,
+    "OT_losses": 7,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 32,
+    "Year": 2007
+},
+{
+    "Goal_against": 218,
+    "Goal_for": 223,
+    "Losses": 28,
+    "OT_losses": 10,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 44,
+    "Year": 2007
+},
+{
+    "Goal_against": 222,
+    "Goal_for": 262,
+    "Losses": 25,
+    "OT_losses": 10,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 47,
+    "Year": 2007
+},
+{
+    "Goal_against": 229,
+    "Goal_for": 230,
+    "Losses": 32,
+    "OT_losses": 9,
+    "Team_Name": "Nashville Predators",
+    "Wins": 41,
+    "Year": 2007
+},
+{
+    "Goal_against": 197,
+    "Goal_for": 206,
+    "Losses": 29,
+    "OT_losses": 7,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 46,
+    "Year": 2007
+},
+{
+    "Goal_against": 243,
+    "Goal_for": 194,
+    "Losses": 38,
+    "OT_losses": 9,
+    "Team_Name": "New York Islanders",
+    "Wins": 35,
+    "Year": 2007
+},
+{
+    "Goal_against": 199,
+    "Goal_for": 213,
+    "Losses": 27,
+    "OT_losses": 13,
+    "Team_Name": "New York Rangers",
+    "Wins": 42,
+    "Year": 2007
+},
+{
+    "Goal_against": 247,
+    "Goal_for": 261,
+    "Losses": 31,
+    "OT_losses": 8,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 43,
+    "Year": 2007
+},
+{
+    "Goal_against": 233,
+    "Goal_for": 248,
+    "Losses": 29,
+    "OT_losses": 11,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 42,
+    "Year": 2007
+},
+{
+    "Goal_against": 231,
+    "Goal_for": 214,
+    "Losses": 37,
+    "OT_losses": 7,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 38,
+    "Year": 2007
+},
+{
+    "Goal_against": 216,
+    "Goal_for": 247,
+    "Losses": 27,
+    "OT_losses": 8,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 47,
+    "Year": 2007
+},
+{
+    "Goal_against": 193,
+    "Goal_for": 222,
+    "Losses": 23,
+    "OT_losses": 10,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 49,
+    "Year": 2007
+},
+{
+    "Goal_against": 237,
+    "Goal_for": 205,
+    "Losses": 36,
+    "OT_losses": 13,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 33,
+    "Year": 2007
+},
+{
+    "Goal_against": 267,
+    "Goal_for": 223,
+    "Losses": 42,
+    "OT_losses": 9,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 31,
+    "Year": 2007
+},
+{
+    "Goal_against": 260,
+    "Goal_for": 231,
+    "Losses": 35,
+    "OT_losses": 11,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 36,
+    "Year": 2007
+},
+{
+    "Goal_against": 215,
+    "Goal_for": 213,
+    "Losses": 33,
+    "OT_losses": 10,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 39,
+    "Year": 2007
+},
+{
+    "Goal_against": 231,
+    "Goal_for": 242,
+    "Losses": 31,
+    "OT_losses": 8,
+    "Team_Name": "Washington Capitals",
+    "Wins": 43,
+    "Year": 2007
+},
+{
+    "Goal_against": 238,
+    "Goal_for": 245,
+    "Losses": 33,
+    "OT_losses": 7,
+    "Team_Name": "Anaheim Ducks",
+    "Wins": 42,
+    "Year": 2008
+},
+{
+    "Goal_against": 280,
+    "Goal_for": 257,
+    "Losses": 41,
+    "OT_losses": 6,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 35,
+    "Year": 2008
+},
+{
+    "Goal_against": 196,
+    "Goal_for": 274,
+    "Losses": 19,
+    "OT_losses": 10,
+    "Team_Name": "Boston Bruins",
+    "Wins": 53,
+    "Year": 2008
+},
+{
+    "Goal_against": 234,
+    "Goal_for": 250,
+    "Losses": 32,
+    "OT_losses": 9,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 41,
+    "Year": 2008
+},
+{
+    "Goal_against": 248,
+    "Goal_for": 254,
+    "Losses": 30,
+    "OT_losses": 6,
+    "Team_Name": "Calgary Flames",
+    "Wins": 46,
+    "Year": 2008
+},
+{
+    "Goal_against": 226,
+    "Goal_for": 239,
+    "Losses": 30,
+    "OT_losses": 7,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 45,
+    "Year": 2008
+},
+{
+    "Goal_against": 230,
+    "Goal_for": 226,
+    "Losses": 31,
+    "OT_losses": 10,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 41,
+    "Year": 2008
+},
+{
+    "Goal_against": 216,
+    "Goal_for": 264,
+    "Losses": 24,
+    "OT_losses": 12,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 46,
+    "Year": 2008
+},
+{
+    "Goal_against": 257,
+    "Goal_for": 199,
+    "Losses": 45,
+    "OT_losses": 5,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 32,
+    "Year": 2008
+},
+{
+    "Goal_against": 257,
+    "Goal_for": 230,
+    "Losses": 35,
+    "OT_losses": 11,
+    "Team_Name": "Dallas Stars",
+    "Wins": 36,
+    "Year": 2008
+},
+{
+    "Goal_against": 244,
+    "Goal_for": 295,
+    "Losses": 21,
+    "OT_losses": 10,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 51,
+    "Year": 2008
+},
+{
+    "Goal_against": 248,
+    "Goal_for": 234,
+    "Losses": 35,
+    "OT_losses": 9,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 38,
+    "Year": 2008
+},
+{
+    "Goal_against": 231,
+    "Goal_for": 234,
+    "Losses": 30,
+    "OT_losses": 11,
+    "Team_Name": "Florida Panthers",
+    "Wins": 41,
+    "Year": 2008
+},
+{
+    "Goal_against": 234,
+    "Goal_for": 207,
+    "Losses": 37,
+    "OT_losses": 11,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 34,
+    "Year": 2008
+},
+{
+    "Goal_against": 200,
+    "Goal_for": 219,
+    "Losses": 33,
+    "OT_losses": 9,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 40,
+    "Year": 2008
+},
+{
+    "Goal_against": 247,
+    "Goal_for": 249,
+    "Losses": 30,
+    "OT_losses": 11,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 41,
+    "Year": 2008
+},
+{
+    "Goal_against": 233,
+    "Goal_for": 213,
+    "Losses": 34,
+    "OT_losses": 8,
+    "Team_Name": "Nashville Predators",
+    "Wins": 40,
+    "Year": 2008
+},
+{
+    "Goal_against": 209,
+    "Goal_for": 244,
+    "Losses": 27,
+    "OT_losses": 4,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 51,
+    "Year": 2008
+},
+{
+    "Goal_against": 279,
+    "Goal_for": 201,
+    "Losses": 47,
+    "OT_losses": 9,
+    "Team_Name": "New York Islanders",
+    "Wins": 26,
+    "Year": 2008
+},
+{
+    "Goal_against": 218,
+    "Goal_for": 210,
+    "Losses": 30,
+    "OT_losses": 9,
+    "Team_Name": "New York Rangers",
+    "Wins": 43,
+    "Year": 2008
+},
+{
+    "Goal_against": 237,
+    "Goal_for": 217,
+    "Losses": 35,
+    "OT_losses": 11,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 36,
+    "Year": 2008
+},
+{
+    "Goal_against": 238,
+    "Goal_for": 264,
+    "Losses": 27,
+    "OT_losses": 11,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 44,
+    "Year": 2008
+},
+{
+    "Goal_against": 252,
+    "Goal_for": 208,
+    "Losses": 39,
+    "OT_losses": 7,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 36,
+    "Year": 2008
+},
+{
+    "Goal_against": 239,
+    "Goal_for": 264,
+    "Losses": 28,
+    "OT_losses": 9,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 45,
+    "Year": 2008
+},
+{
+    "Goal_against": 204,
+    "Goal_for": 257,
+    "Losses": 18,
+    "OT_losses": 11,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 53,
+    "Year": 2008
+},
+{
+    "Goal_against": 233,
+    "Goal_for": 233,
+    "Losses": 31,
+    "OT_losses": 10,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 41,
+    "Year": 2008
+},
+{
+    "Goal_against": 279,
+    "Goal_for": 210,
+    "Losses": 40,
+    "OT_losses": 18,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 24,
+    "Year": 2008
+},
+{
+    "Goal_against": 293,
+    "Goal_for": 250,
+    "Losses": 35,
+    "OT_losses": 13,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 34,
+    "Year": 2008
+},
+{
+    "Goal_against": 220,
+    "Goal_for": 246,
+    "Losses": 27,
+    "OT_losses": 10,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 45,
+    "Year": 2008
+},
+{
+    "Goal_against": 245,
+    "Goal_for": 272,
+    "Losses": 24,
+    "OT_losses": 8,
+    "Team_Name": "Washington Capitals",
+    "Wins": 50,
+    "Year": 2008
+},
+{
+    "Goal_against": 251,
+    "Goal_for": 238,
+    "Losses": 32,
+    "OT_losses": 11,
+    "Team_Name": "Anaheim Ducks",
+    "Wins": 39,
+    "Year": 2009
+},
+{
+    "Goal_against": 256,
+    "Goal_for": 234,
+    "Losses": 34,
+    "OT_losses": 13,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 35,
+    "Year": 2009
+},
+{
+    "Goal_against": 200,
+    "Goal_for": 206,
+    "Losses": 30,
+    "OT_losses": 13,
+    "Team_Name": "Boston Bruins",
+    "Wins": 39,
+    "Year": 2009
+},
+{
+    "Goal_against": 207,
+    "Goal_for": 235,
+    "Losses": 27,
+    "OT_losses": 10,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 45,
+    "Year": 2009
+},
+{
+    "Goal_against": 210,
+    "Goal_for": 204,
+    "Losses": 32,
+    "OT_losses": 10,
+    "Team_Name": "Calgary Flames",
+    "Wins": 40,
+    "Year": 2009
+},
+{
+    "Goal_against": 256,
+    "Goal_for": 230,
+    "Losses": 37,
+    "OT_losses": 10,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 35,
+    "Year": 2009
+},
+{
+    "Goal_against": 259,
+    "Goal_for": 216,
+    "Losses": 35,
+    "OT_losses": 15,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 32,
+    "Year": 2009
+},
+{
+    "Goal_against": 209,
+    "Goal_for": 271,
+    "Losses": 22,
+    "OT_losses": 8,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 52,
+    "Year": 2009
+},
+{
+    "Goal_against": 233,
+    "Goal_for": 244,
+    "Losses": 30,
+    "OT_losses": 9,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 43,
+    "Year": 2009
+},
+{
+    "Goal_against": 254,
+    "Goal_for": 237,
+    "Losses": 31,
+    "OT_losses": 14,
+    "Team_Name": "Dallas Stars",
+    "Wins": 37,
+    "Year": 2009
+},
+{
+    "Goal_against": 216,
+    "Goal_for": 229,
+    "Losses": 24,
+    "OT_losses": 14,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 44,
+    "Year": 2009
+},
+{
+    "Goal_against": 284,
+    "Goal_for": 214,
+    "Losses": 47,
+    "OT_losses": 8,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 27,
+    "Year": 2009
+},
+{
+    "Goal_against": 244,
+    "Goal_for": 208,
+    "Losses": 37,
+    "OT_losses": 13,
+    "Team_Name": "Florida Panthers",
+    "Wins": 32,
+    "Year": 2009
+},
+{
+    "Goal_against": 219,
+    "Goal_for": 241,
+    "Losses": 27,
+    "OT_losses": 9,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 46,
+    "Year": 2009
+},
+{
+    "Goal_against": 246,
+    "Goal_for": 219,
+    "Losses": 36,
+    "OT_losses": 8,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 38,
+    "Year": 2009
+},
+{
+    "Goal_against": 223,
+    "Goal_for": 217,
+    "Losses": 33,
+    "OT_losses": 10,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 39,
+    "Year": 2009
+},
+{
+    "Goal_against": 225,
+    "Goal_for": 225,
+    "Losses": 29,
+    "OT_losses": 6,
+    "Team_Name": "Nashville Predators",
+    "Wins": 47,
+    "Year": 2009
+},
+{
+    "Goal_against": 191,
+    "Goal_for": 222,
+    "Losses": 27,
+    "OT_losses": 7,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 48,
+    "Year": 2009
+},
+{
+    "Goal_against": 264,
+    "Goal_for": 222,
+    "Losses": 37,
+    "OT_losses": 11,
+    "Team_Name": "New York Islanders",
+    "Wins": 34,
+    "Year": 2009
+},
+{
+    "Goal_against": 218,
+    "Goal_for": 222,
+    "Losses": 33,
+    "OT_losses": 11,
+    "Team_Name": "New York Rangers",
+    "Wins": 38,
+    "Year": 2009
+},
+{
+    "Goal_against": 238,
+    "Goal_for": 225,
+    "Losses": 32,
+    "OT_losses": 6,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 44,
+    "Year": 2009
+},
+{
+    "Goal_against": 225,
+    "Goal_for": 236,
+    "Losses": 35,
+    "OT_losses": 6,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 41,
+    "Year": 2009
+},
+{
+    "Goal_against": 202,
+    "Goal_for": 225,
+    "Losses": 25,
+    "OT_losses": 7,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 50,
+    "Year": 2009
+},
+{
+    "Goal_against": 237,
+    "Goal_for": 257,
+    "Losses": 28,
+    "OT_losses": 7,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 47,
+    "Year": 2009
+},
+{
+    "Goal_against": 215,
+    "Goal_for": 264,
+    "Losses": 20,
+    "OT_losses": 11,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 51,
+    "Year": 2009
+},
+{
+    "Goal_against": 223,
+    "Goal_for": 225,
+    "Losses": 32,
+    "OT_losses": 10,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 40,
+    "Year": 2009
+},
+{
+    "Goal_against": 260,
+    "Goal_for": 217,
+    "Losses": 36,
+    "OT_losses": 12,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 34,
+    "Year": 2009
+},
+{
+    "Goal_against": 267,
+    "Goal_for": 214,
+    "Losses": 38,
+    "OT_losses": 14,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 30,
+    "Year": 2009
+},
+{
+    "Goal_against": 222,
+    "Goal_for": 272,
+    "Losses": 28,
+    "OT_losses": 5,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 49,
+    "Year": 2009
+},
+{
+    "Goal_against": 233,
+    "Goal_for": 318,
+    "Losses": 15,
+    "OT_losses": 13,
+    "Team_Name": "Washington Capitals",
+    "Wins": 54,
+    "Year": 2009
+},
+{
+    "Goal_against": 235,
+    "Goal_for": 239,
+    "Losses": 30,
+    "OT_losses": 5,
+    "Team_Name": "Anaheim Ducks",
+    "Wins": 47,
+    "Year": 2010
+},
+{
+    "Goal_against": 269,
+    "Goal_for": 223,
+    "Losses": 36,
+    "OT_losses": 12,
+    "Team_Name": "Atlanta Thrashers",
+    "Wins": 34,
+    "Year": 2010
+},
+{
+    "Goal_against": 195,
+    "Goal_for": 246,
+    "Losses": 25,
+    "OT_losses": 11,
+    "Team_Name": "Boston Bruins",
+    "Wins": 46,
+    "Year": 2010
+},
+{
+    "Goal_against": 229,
+    "Goal_for": 245,
+    "Losses": 29,
+    "OT_losses": 10,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 43,
+    "Year": 2010
+},
+{
+    "Goal_against": 237,
+    "Goal_for": 250,
+    "Losses": 29,
+    "OT_losses": 12,
+    "Team_Name": "Calgary Flames",
+    "Wins": 41,
+    "Year": 2010
+},
+{
+    "Goal_against": 239,
+    "Goal_for": 236,
+    "Losses": 31,
+    "OT_losses": 11,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 40,
+    "Year": 2010
+},
+{
+    "Goal_against": 258,
+    "Goal_for": 215,
+    "Losses": 35,
+    "OT_losses": 13,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 34,
+    "Year": 2010
+},
+{
+    "Goal_against": 225,
+    "Goal_for": 258,
+    "Losses": 29,
+    "OT_losses": 9,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 44,
+    "Year": 2010
+},
+{
+    "Goal_against": 288,
+    "Goal_for": 227,
+    "Losses": 44,
+    "OT_losses": 8,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 30,
+    "Year": 2010
+},
+{
+    "Goal_against": 233,
+    "Goal_for": 227,
+    "Losses": 29,
+    "OT_losses": 11,
+    "Team_Name": "Dallas Stars",
+    "Wins": 42,
+    "Year": 2010
+},
+{
+    "Goal_against": 241,
+    "Goal_for": 261,
+    "Losses": 25,
+    "OT_losses": 10,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 47,
+    "Year": 2010
+},
+{
+    "Goal_against": 269,
+    "Goal_for": 193,
+    "Losses": 45,
+    "OT_losses": 12,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 25,
+    "Year": 2010
+},
+{
+    "Goal_against": 229,
+    "Goal_for": 195,
+    "Losses": 40,
+    "OT_losses": 12,
+    "Team_Name": "Florida Panthers",
+    "Wins": 30,
+    "Year": 2010
+},
+{
+    "Goal_against": 198,
+    "Goal_for": 219,
+    "Losses": 30,
+    "OT_losses": 6,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 46,
+    "Year": 2010
+},
+{
+    "Goal_against": 233,
+    "Goal_for": 206,
+    "Losses": 35,
+    "OT_losses": 8,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 39,
+    "Year": 2010
+},
+{
+    "Goal_against": 209,
+    "Goal_for": 216,
+    "Losses": 30,
+    "OT_losses": 8,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 44,
+    "Year": 2010
+},
+{
+    "Goal_against": 194,
+    "Goal_for": 219,
+    "Losses": 27,
+    "OT_losses": 11,
+    "Team_Name": "Nashville Predators",
+    "Wins": 44,
+    "Year": 2010
+},
+{
+    "Goal_against": 209,
+    "Goal_for": 174,
+    "Losses": 39,
+    "OT_losses": 5,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 38,
+    "Year": 2010
+},
+{
+    "Goal_against": 264,
+    "Goal_for": 229,
+    "Losses": 39,
+    "OT_losses": 13,
+    "Team_Name": "New York Islanders",
+    "Wins": 30,
+    "Year": 2010
+},
+{
+    "Goal_against": 198,
+    "Goal_for": 233,
+    "Losses": 33,
+    "OT_losses": 5,
+    "Team_Name": "New York Rangers",
+    "Wins": 44,
+    "Year": 2010
+},
+{
+    "Goal_against": 250,
+    "Goal_for": 192,
+    "Losses": 40,
+    "OT_losses": 10,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 32,
+    "Year": 2010
+},
+{
+    "Goal_against": 223,
+    "Goal_for": 259,
+    "Losses": 23,
+    "OT_losses": 12,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 47,
+    "Year": 2010
+},
+{
+    "Goal_against": 226,
+    "Goal_for": 231,
+    "Losses": 26,
+    "OT_losses": 13,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 43,
+    "Year": 2010
+},
+{
+    "Goal_against": 199,
+    "Goal_for": 238,
+    "Losses": 25,
+    "OT_losses": 8,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 49,
+    "Year": 2010
+},
+{
+    "Goal_against": 213,
+    "Goal_for": 248,
+    "Losses": 25,
+    "OT_losses": 9,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 48,
+    "Year": 2010
+},
+{
+    "Goal_against": 234,
+    "Goal_for": 240,
+    "Losses": 33,
+    "OT_losses": 11,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 38,
+    "Year": 2010
+},
+{
+    "Goal_against": 240,
+    "Goal_for": 247,
+    "Losses": 25,
+    "OT_losses": 11,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 46,
+    "Year": 2010
+},
+{
+    "Goal_against": 251,
+    "Goal_for": 218,
+    "Losses": 34,
+    "OT_losses": 11,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 37,
+    "Year": 2010
+},
+{
+    "Goal_against": 185,
+    "Goal_for": 262,
+    "Losses": 19,
+    "OT_losses": 9,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 54,
+    "Year": 2010
+},
+{
+    "Goal_against": 197,
+    "Goal_for": 224,
+    "Losses": 23,
+    "OT_losses": 11,
+    "Team_Name": "Washington Capitals",
+    "Wins": 48,
+    "Year": 2010
+},
+{
+    "Goal_against": 231,
+    "Goal_for": 204,
+    "Losses": 36,
+    "OT_losses": 12,
+    "Team_Name": "Anaheim Ducks",
+    "Wins": 34,
+    "Year": 2011
+},
+{
+    "Goal_against": 202,
+    "Goal_for": 269,
+    "Losses": 29,
+    "OT_losses": 4,
+    "Team_Name": "Boston Bruins",
+    "Wins": 49,
+    "Year": 2011
+},
+{
+    "Goal_against": 230,
+    "Goal_for": 218,
+    "Losses": 32,
+    "OT_losses": 11,
+    "Team_Name": "Buffalo Sabres",
+    "Wins": 39,
+    "Year": 2011
+},
+{
+    "Goal_against": 226,
+    "Goal_for": 202,
+    "Losses": 29,
+    "OT_losses": 16,
+    "Team_Name": "Calgary Flames",
+    "Wins": 37,
+    "Year": 2011
+},
+{
+    "Goal_against": 243,
+    "Goal_for": 213,
+    "Losses": 33,
+    "OT_losses": 16,
+    "Team_Name": "Carolina Hurricanes",
+    "Wins": 33,
+    "Year": 2011
+},
+{
+    "Goal_against": 262,
+    "Goal_for": 202,
+    "Losses": 46,
+    "OT_losses": 7,
+    "Team_Name": "Columbus Blue Jackets",
+    "Wins": 29,
+    "Year": 2011
+},
+{
+    "Goal_against": 238,
+    "Goal_for": 248,
+    "Losses": 26,
+    "OT_losses": 11,
+    "Team_Name": "Chicago Blackhawks",
+    "Wins": 45,
+    "Year": 2011
+},
+{
+    "Goal_against": 220,
+    "Goal_for": 208,
+    "Losses": 35,
+    "OT_losses": 6,
+    "Team_Name": "Colorado Avalanche",
+    "Wins": 41,
+    "Year": 2011
+},
+{
+    "Goal_against": 222,
+    "Goal_for": 211,
+    "Losses": 35,
+    "OT_losses": 5,
+    "Team_Name": "Dallas Stars",
+    "Wins": 42,
+    "Year": 2011
+},
+{
+    "Goal_against": 203,
+    "Goal_for": 248,
+    "Losses": 28,
+    "OT_losses": 6,
+    "Team_Name": "Detroit Red Wings",
+    "Wins": 48,
+    "Year": 2011
+},
+{
+    "Goal_against": 239,
+    "Goal_for": 212,
+    "Losses": 40,
+    "OT_losses": 10,
+    "Team_Name": "Edmonton Oilers",
+    "Wins": 32,
+    "Year": 2011
+},
+{
+    "Goal_against": 227,
+    "Goal_for": 203,
+    "Losses": 26,
+    "OT_losses": 18,
+    "Team_Name": "Florida Panthers",
+    "Wins": 38,
+    "Year": 2011
+},
+{
+    "Goal_against": 179,
+    "Goal_for": 194,
+    "Losses": 27,
+    "OT_losses": 15,
+    "Team_Name": "Los Angeles Kings",
+    "Wins": 40,
+    "Year": 2011
+},
+{
+    "Goal_against": 226,
+    "Goal_for": 177,
+    "Losses": 36,
+    "OT_losses": 11,
+    "Team_Name": "Minnesota Wild",
+    "Wins": 35,
+    "Year": 2011
+},
+{
+    "Goal_against": 226,
+    "Goal_for": 212,
+    "Losses": 35,
+    "OT_losses": 16,
+    "Team_Name": "Montreal Canadiens",
+    "Wins": 31,
+    "Year": 2011
+},
+{
+    "Goal_against": 210,
+    "Goal_for": 237,
+    "Losses": 26,
+    "OT_losses": 8,
+    "Team_Name": "Nashville Predators",
+    "Wins": 48,
+    "Year": 2011
+},
+{
+    "Goal_against": 209,
+    "Goal_for": 228,
+    "Losses": 28,
+    "OT_losses": 6,
+    "Team_Name": "New Jersey Devils",
+    "Wins": 48,
+    "Year": 2011
+},
+{
+    "Goal_against": 255,
+    "Goal_for": 203,
+    "Losses": 37,
+    "OT_losses": 11,
+    "Team_Name": "New York Islanders",
+    "Wins": 34,
+    "Year": 2011
+},
+{
+    "Goal_against": 187,
+    "Goal_for": 226,
+    "Losses": 24,
+    "OT_losses": 7,
+    "Team_Name": "New York Rangers",
+    "Wins": 51,
+    "Year": 2011
+},
+{
+    "Goal_against": 240,
+    "Goal_for": 249,
+    "Losses": 31,
+    "OT_losses": 10,
+    "Team_Name": "Ottawa Senators",
+    "Wins": 41,
+    "Year": 2011
+},
+{
+    "Goal_against": 232,
+    "Goal_for": 264,
+    "Losses": 26,
+    "OT_losses": 9,
+    "Team_Name": "Philadelphia Flyers",
+    "Wins": 47,
+    "Year": 2011
+},
+{
+    "Goal_against": 204,
+    "Goal_for": 216,
+    "Losses": 27,
+    "OT_losses": 13,
+    "Team_Name": "Phoenix Coyotes",
+    "Wins": 42,
+    "Year": 2011
+},
+{
+    "Goal_against": 221,
+    "Goal_for": 282,
+    "Losses": 25,
+    "OT_losses": 6,
+    "Team_Name": "Pittsburgh Penguins",
+    "Wins": 51,
+    "Year": 2011
+},
+{
+    "Goal_against": 210,
+    "Goal_for": 228,
+    "Losses": 29,
+    "OT_losses": 10,
+    "Team_Name": "San Jose Sharks",
+    "Wins": 43,
+    "Year": 2011
+},
+{
+    "Goal_against": 165,
+    "Goal_for": 210,
+    "Losses": 22,
+    "OT_losses": 11,
+    "Team_Name": "St. Louis Blues",
+    "Wins": 49,
+    "Year": 2011
+},
+{
+    "Goal_against": 281,
+    "Goal_for": 235,
+    "Losses": 36,
+    "OT_losses": 8,
+    "Team_Name": "Tampa Bay Lightning",
+    "Wins": 38,
+    "Year": 2011
+},
+{
+    "Goal_against": 264,
+    "Goal_for": 231,
+    "Losses": 37,
+    "OT_losses": 10,
+    "Team_Name": "Toronto Maple Leafs",
+    "Wins": 35,
+    "Year": 2011
+},
+{
+    "Goal_against": 198,
+    "Goal_for": 249,
+    "Losses": 22,
+    "OT_losses": 9,
+    "Team_Name": "Vancouver Canucks",
+    "Wins": 51,
+    "Year": 2011
+},
+{
+    "Goal_against": 230,
+    "Goal_for": 222,
+    "Losses": 32,
+    "OT_losses": 8,
+    "Team_Name": "Washington Capitals",
+    "Wins": 42,
+    "Year": 2011
+},
+{
+    "Goal_against": 246,
+    "Goal_for": 225,
+    "Losses": 35,
+    "OT_losses": 10,
+    "Team_Name": "Winnipeg Jets",
+    "Wins": 37,
+    "Year": 2011
+}
+]
